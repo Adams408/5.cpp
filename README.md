@@ -1,0 +1,2 @@
+# 5.cpp
+Complete the following program. This program determines the hidden password encoded in the function pass. The password is at most made up of some given k unique numerical digits. The length of the password is given at runtime on the command line. The length of the password ,k, will be between 2 and 10 inclusively. Your program must determine the correct password in 10!/(10-k)! attempts in order to be evaluated as correct.
